@@ -1,0 +1,21 @@
+#intro {
+    background-image: url("volunteers.webp");
+    height: 65vh;
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 45%;
+    background-position: bottom
+  }
+
+  .navbar-brand {
+    font-size: 36px;
+  }
+
+  body, html {
+    height: 70%;
+}
+
+
+.close{
+  cursor: pointer;
+}
